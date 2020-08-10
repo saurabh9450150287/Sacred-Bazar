@@ -10,6 +10,7 @@
 - On the server side we can add or remove products using db browser for SQLite.
 
 ## Development
+
 - For conrols ang GUI **java.awt** and **javax.swing** packages have been used.
 - To read and write images input and output stream classes from **java.io** package have been used.
 - Communication between client and server is being done using **socket programming** which is implemented using **java.net** package.
@@ -17,6 +18,7 @@
 - Database related queries are being handled by classes from **java.sql** package.
 - GUI is being implemented using **java.awt package**.
 - To manage databases on server-side db browser for SQLite has been used.
+
 ## Images
 ![image](https://user-images.githubusercontent.com/43703209/89746847-80177200-dad9-11ea-9065-bb32466bd25f.png)
 ![image](https://user-images.githubusercontent.com/43703209/89746858-8c033400-dad9-11ea-9aa8-5b15f55195b3.png)
