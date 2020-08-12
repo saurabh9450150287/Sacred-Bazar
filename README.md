@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/43703209/89747287-c1a91c80-dadb-11ea-8a48-1a7b01adad46.png)
 - Picking a product and adding it to cart
 ![image](https://user-images.githubusercontent.com/43703209/89747305-d4bbec80-dadb-11ea-91d4-c87be2a46223.png)
-- Going into cloths section
+- Going into clothes section
 ![image](https://user-images.githubusercontent.com/43703209/89982630-be589100-dc93-11ea-87cc-10d97c77141b.png)
 - Picking a product and it to cart
 ![image](https://user-images.githubusercontent.com/43703209/89982738-e7792180-dc93-11ea-8cba-2272c7b678af.png)
