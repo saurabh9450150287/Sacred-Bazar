@@ -20,8 +20,11 @@
 - To manage databases on server-side db browser for SQLite has been used.
 
 ## Images
+- Signup (For New Users)
 ![image](https://user-images.githubusercontent.com/43703209/89746847-80177200-dad9-11ea-9065-bb32466bd25f.png)
+- Login (If user is registered)
 ![image](https://user-images.githubusercontent.com/43703209/89746858-8c033400-dad9-11ea-9aa8-5b15f55195b3.png)
+- Logging into our account
 ![image](https://user-images.githubusercontent.com/43703209/89747260-96bec880-dadb-11ea-8278-146fbf087d43.png)
 ![image](https://user-images.githubusercontent.com/43703209/89747271-ab9b5c00-dadb-11ea-9c57-7d7770a46c99.png)
 ![image](https://user-images.githubusercontent.com/43703209/89747287-c1a91c80-dadb-11ea-8a48-1a7b01adad46.png)
