@@ -41,7 +41,7 @@ import javax.mail.internet.MimeMessage;
 public class SL extends javax.swing.JFrame 
 {
     public  HomePage hp=null;
-    private String imgpath, lim = "neelakshigauri77@gmail.com", pas = "Neelakshi@CHGS", IP = "127.0.0.1";
+    private String imgpath, lim = "psaurabh499@gmail.com", pas = "NOT_MENTIONED_ON_GITHUB", IP = "127.0.0.1";
     public static String unm,passd;
     public static byte[] imgByte = null;
     private int EMA = 1, PREP = 0;//ema = email verification ; prep = password repeat
