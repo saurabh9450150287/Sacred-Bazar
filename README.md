@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/43703209/89746847-80177200-dad9-11ea-9065-bb32466bd25f.png)
 - Login (If user is registered)
 ![image](https://user-images.githubusercontent.com/43703209/89746858-8c033400-dad9-11ea-9aa8-5b15f55195b3.png)
-- Creating accunt
+- Creating accunt (Going to verify the email)
 ![image](https://user-images.githubusercontent.com/43703209/90206153-9dfa1500-de00-11ea-85f1-9b4246c35124.png)
 - Otp Received on email
 ![image](https://user-images.githubusercontent.com/43703209/90206121-8589fa80-de00-11ea-86e9-e73041a3b831.png)
