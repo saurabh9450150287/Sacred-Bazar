@@ -24,6 +24,16 @@
 ![image](https://user-images.githubusercontent.com/43703209/89746847-80177200-dad9-11ea-9065-bb32466bd25f.png)
 - Login (If user is registered)
 ![image](https://user-images.githubusercontent.com/43703209/89746858-8c033400-dad9-11ea-9aa8-5b15f55195b3.png)
+- Creating accunt
+![image](https://user-images.githubusercontent.com/43703209/90206153-9dfa1500-de00-11ea-85f1-9b4246c35124.png)
+- Otp Received on email
+![image](https://user-images.githubusercontent.com/43703209/90206121-8589fa80-de00-11ea-86e9-e73041a3b831.png)
+- Verifying OTP
+![image](https://user-images.githubusercontent.com/43703209/90206230-cd108680-de00-11ea-8b74-d45898724542.png)
+- OTP Verified
+![image](https://user-images.githubusercontent.com/43703209/90206262-db5ea280-de00-11ea-9b99-022820db5f0a.png)
+- Sign up is sucessful
+![image](https://user-images.githubusercontent.com/43703209/90206490-6049bc00-de01-11ea-864b-e1841f69e77d.png)
 - Logging into our account
 ![image](https://user-images.githubusercontent.com/43703209/89747260-96bec880-dadb-11ea-8278-146fbf087d43.png)
 - Homepage
