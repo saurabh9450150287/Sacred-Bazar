@@ -37,7 +37,7 @@
 - Logging into our account
 ![image](https://user-images.githubusercontent.com/43703209/89747260-96bec880-dadb-11ea-8278-146fbf087d43.png)
 - Homepage
-![image](https://user-images.githubusercontent.com/43703209/89747271-ab9b5c00-dadb-11ea-9c57-7d7770a46c99.png)
+![image](![image](https://user-images.githubusercontent.com/43703209/91443313-cc600180-e890-11ea-9f72-d847fdb0400b.png)
 - Going into the electronics section
 ![image](https://user-images.githubusercontent.com/43703209/89747287-c1a91c80-dadb-11ea-8a48-1a7b01adad46.png)
 - Picking a product and adding it to cart
