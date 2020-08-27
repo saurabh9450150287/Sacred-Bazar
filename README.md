@@ -39,11 +39,11 @@
 - Homepage
 ![image](![image](https://user-images.githubusercontent.com/43703209/91443313-cc600180-e890-11ea-9f72-d847fdb0400b.png)
 - Going into the electronics section
-![image](https://user-images.githubusercontent.com/43703209/89747287-c1a91c80-dadb-11ea-8a48-1a7b01adad46.png)
+![image](https://user-images.githubusercontent.com/43703209/91443574-23fe6d00-e891-11ea-9a7c-36f8495293e7.png)
 - Picking a product and adding it to cart
 ![image](https://user-images.githubusercontent.com/43703209/89747305-d4bbec80-dadb-11ea-91d4-c87be2a46223.png)
 - Going into clothes section
-![image](https://user-images.githubusercontent.com/43703209/89982630-be589100-dc93-11ea-87cc-10d97c77141b.png)
+![image](https://user-images.githubusercontent.com/43703209/91443640-3aa4c400-e891-11ea-9b4e-2e008466a17d.png)
 - Picking a product and it to cart
 ![image](https://user-images.githubusercontent.com/43703209/89982738-e7792180-dc93-11ea-8cba-2272c7b678af.png)
 - Going to the cart
@@ -58,4 +58,5 @@
 ![image](https://user-images.githubusercontent.com/43703209/89982169-d7147700-dc92-11ea-82b3-28d34f3ccd75.png)
 
 
-
+![image](https://user-images.githubusercontent.com/43703209/91443574-23fe6d00-e891-11ea-9a7c-36f8495293e7.png)
+![image](https://user-images.githubusercontent.com/43703209/91443640-3aa4c400-e891-11ea-9b4e-2e008466a17d.png)
